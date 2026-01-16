@@ -1,0 +1,4 @@
+2026-01-15 10:01:12 INFO Server started
+2026-01-15 10:02:45 INFO Health check passed
+2026-01-15 10:03:10 ERROR Failed to connect to database
+2026-01-15 10:03:15 ERROR HTTP 503 Service Unavailable
